@@ -10,7 +10,7 @@ every times,the number increase.
 
 Screenshots
 -------------
-<img src="screenshots/1-main.jpeg" height="400" alt="Screenshot"/> <img src="screenshots/2-main.jpeg" height="400" alt="Screenshot"/>  
+<img src="screenshots/2-main.jpeg" height="400" alt="Screenshot"/> <img src="screenshots/1-main.jpeg" height="400" alt="Screenshot"/>  
 
 Getting Started
 ---------------
